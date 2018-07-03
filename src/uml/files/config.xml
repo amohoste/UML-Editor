@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Amory Hoste
+  Bevat de te tonen info voor het about-venster
+-->
+
+<config>
+    <email>amory.hoste@ugent.be</email>
+    <version>1.0.0 (Beta)</version>
+    <info>The revolutionary xml-viewer</info>
+</config>
+

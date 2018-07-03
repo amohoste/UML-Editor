@@ -1,0 +1,46 @@
+/* Amory Hoste */
+
+#maincontainer {
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-background-color: #f1f1f1;
+    -fx-background-radius : 10;
+}
+
+#innercontainer {
+     -fx-border-style: solid;
+     -fx-border-width: 1 0 0 0;
+ }
+
+#header {
+    -fx-font-weight: bold;
+}
+
+#selectbox {
+    -fx-stroke: forestgreen;
+    -fx-stroke-width: 2px;
+    -fx-stroke-dash-array: 12 2 4 2;
+    -fx-stroke-dash-offset: 6;
+    -fx-stroke-line-cap: butt;
+    -fx-fill: rgba(255, 228, 118, .5);
+}
+
+.icon-button {
+    -icon-paint: rgba(255, 0, 0, 0.5);
+    -fx-background-color: -icon-paint;
+    -size: 24;
+    -fx-min-height: -size;
+    -fx-min-width: -size;
+    -fx-max-height: -size;
+    -fx-max-width: -size;
+
+    -fx-shape: "M328.883,89.125l107.59,107.589l-272.34,272.34L56.604,361.465L328.883,89.125z M518.113,63.177l-47.981-47.981 c-18.543-18.543-48.653-18.543-67.259,0l-45.961,45.961l107.59,107.59l53.611-53.611 C532.495,100.753,532.495,77.559,518.113,63.177z M0.3,512.69c-1.958,8.812,5.998,16.708,14.811,14.565l119.891-29.069 L27.473,390.597L0.3,512.69z";
+}
+
+.icon-button:hover {
+    -icon-paint: rgba(255, 0, 0, 1);
+}
+
+.icon-button:pressed {
+    -icon-paint: rgb(192, 57, 43);
+}
