@@ -12,3 +12,7 @@ Project for the course Object Oriented Programming (C003772). Made during my fir
 ![Editor Overview](screens/screenshot_1.png)
 
 ![Editor_Detail](screens/screenshot_2.png)
+
+## Dependencies
+- Java 8
+- JavaFX
