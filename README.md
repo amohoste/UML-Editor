@@ -1,5 +1,5 @@
 # UML Editor
-Project for the course Object Oriented Programming (C003772). Made during my first year of Bachelor of Science in Computer Science at Ghent University.
+Project for the course Object Oriented Programming (C003772) | 2016 - 2017. Made during my first year of Bachelor of Science in Computer Science at Ghent University.
 
 ## Startup arguments
 `java -jar 'jar-file' [xml_file] [screenshout output]`
