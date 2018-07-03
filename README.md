@@ -9,6 +9,6 @@ Project for the course Object Oriented Programming (C003772). Made during my fir
 - When the program is started with two arguments, a screenshot of the given xml file is made at the given output location
 
 ## Screenshots
-![Editor Overview](screens/screenshot_1)
+![Editor Overview](screens/screenshot_1.png)
 
-![Editor_Detail](screens/screenshot_2)
+![Editor_Detail](screens/screenshot_2.png)
