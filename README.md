@@ -7,3 +7,8 @@ Project for the course Object Oriented Programming (C003772). Made during my fir
 - When the program is started without arguments, a blank worksheet is opened
 - When the program is started with one argument, the given file is opened
 - When the program is started with two arguments, a screenshot of the given xml file is made at the given output location
+
+## Screenshots
+![Editor Overview](screenshots/screenshot_1)
+
+![Editor_Detail](screenshots/screenshot_2)
